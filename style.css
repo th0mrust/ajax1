@@ -1,0 +1,13 @@
+body{
+    background: bisque;
+}
+
+
+.Titel{
+    text-align: center;
+}
+
+#txtHint{
+    height: 126px;
+    width: 258px;
+}
